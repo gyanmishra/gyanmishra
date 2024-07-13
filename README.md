@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- :desktop_computer: Computational Biologist
-- 
+- :desktop_computer: I am a Computational Biologist currently working at UT Southwestern Medical District, Dallas, Texas, USA
+
 <!--
 **gyanmishra/gyanmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
