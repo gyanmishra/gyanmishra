@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gyanmishra.gyanmishra)
+![visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gyanmishra.gyanmishra)
