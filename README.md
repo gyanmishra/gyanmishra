@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+- :desktop_computer: Computational Biologist
+- 
 <!--
 **gyanmishra/gyanmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
