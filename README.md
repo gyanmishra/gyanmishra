@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- :desktop_computer: I am a Computational Biologist currently working at UT Southwestern Medical Center, Dallas, Texas, USA
+- :desktop_computer: I am a Computational Biologist currently working at Washinton University in St. Louis School of Medicine, MO, USA
 
 <!--
 **gyanmishra/gyanmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
